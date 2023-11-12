@@ -1,6 +1,6 @@
 # Moralis NFT API
 
-Unlock the potential of your NFT app with [Moralis' NFT API](https://moralis.io/api/nft/). Our cross-chain NFT API solution simplifies the process of launching, verifying, analyzing, trading, and showcasing NFTs. Designed by developers for developers, our API empowers you to build remarkable NFT experiences effortlessly.
+Unlock the potential of your NFT app with [Moralis' NFT API](https://moralis.io/api/nft/). Our cross-chain NFT API solution simplifies the process. It aids in launching, verifying, analyzing, trading, and showcasing NFTs. Designed by developers for developers, our API empowers you to build remarkable NFT experiences effortlessly.
 
 Join Moralis and revolutionize your NFT app development, creating meaningful shared experiences for your users across the web3 ecosystem. Explore our NFT API to access the top features and unlock cross-chain NFT compatibility, making your NFT app development faster and more efficient than ever.
 
